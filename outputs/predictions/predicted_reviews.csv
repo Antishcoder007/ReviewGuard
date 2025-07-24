@@ -1,0 +1,1001 @@
+review_text,rating,label_fake,sentiment,clean_text,review_length,char_length,punctuation_count,rating_mismatch,predicted_fake,predicted_sentiment,corrected_rating
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Neither good nor bad.,3,1,neutral,neither good bad,3,16,1,0,0,neutral,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Terrible quality. Broke in days.,2,1,negative,terrible quality break day,4,26,2,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Amazing. I’ll buy it again.,5,1,positive,amazing ill buy,3,15,2,0,0,positive,5
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,1,positive,love five star,3,14,1,0,0,positive,4
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Waste of money!,2,1,negative,waste money,2,11,1,0,0,negative,2
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Totally worth the money 👌,4,1,positive,totally worth money,3,19,0,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Amazing. I’ll buy it again.,4,1,positive,amazing ill buy,3,15,2,0,0,positive,4
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+It works as expected.,3,1,neutral,work expect,2,11,1,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Very disappointed. Wouldn’t buy again.,2,1,negative,disappoint would not buy,4,24,2,0,0,negative,2
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+"Poor performance, not recommended.",2,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,1,negative,disappoint would not buy,4,24,2,0,0,negative,1
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Worst experience ever!,1,1,negative,bad experience ever,3,19,1,0,0,negative,1
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Perfect fit and great quality!,4,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Neither good nor bad.,3,1,neutral,neither good bad,3,16,1,0,0,neutral,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+"It’s okay, not great not terrible.",3,1,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Excellent product! Highly recommended.,5,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Amazing. I’ll buy it again.,4,1,positive,amazing ill buy,3,15,2,0,0,positive,4
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,1,positive,love five star,3,14,1,0,0,positive,5
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Waste of money!,2,1,negative,waste money,2,11,1,0,0,negative,2
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"Poor performance, not recommended.",2,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Terrible quality. Broke in days.,2,1,negative,terrible quality break day,4,26,2,0,0,negative,2
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"Poor performance, not recommended.",1,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+"Poor performance, not recommended.",2,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Waste of money!,2,1,negative,waste money,2,11,1,0,0,negative,2
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,1,positive,love five star,3,14,1,0,0,positive,4
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,1,positive,love five star,3,14,1,0,0,positive,4
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,2,1,negative,terrible quality break day,4,26,2,0,0,negative,2
+Totally worth the money 👌,5,1,positive,totally worth money,3,19,0,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,1,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+"It’s okay, not great not terrible.",3,1,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Totally worth the money 👌,4,1,positive,totally worth money,3,19,0,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+"It’s okay, not great not terrible.",3,1,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Waste of money!,1,1,negative,waste money,2,11,1,0,0,negative,1
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,1,positive,amazing ill buy,3,15,2,0,0,positive,5
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,1,positive,amazing ill buy,3,15,2,0,0,positive,5
+Totally worth the money 👌,5,1,positive,totally worth money,3,19,0,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Amazing. I’ll buy it again.,4,1,positive,amazing ill buy,3,15,2,0,0,positive,4
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Waste of money!,2,1,negative,waste money,2,11,1,0,0,negative,2
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Worst experience ever!,1,1,negative,bad experience ever,3,19,1,0,0,negative,1
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Perfect fit and great quality!,5,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+"It’s okay, not great not terrible.",3,1,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,1,positive,love five star,3,14,1,0,0,positive,5
+Excellent product! Highly recommended.,4,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+It works as expected.,3,1,neutral,work expect,2,11,1,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Excellent product! Highly recommended.,4,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Perfect fit and great quality!,5,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Waste of money!,1,1,negative,waste money,2,11,1,0,0,negative,1
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Totally worth the money 👌,5,1,positive,totally worth money,3,19,0,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Excellent product! Highly recommended.,5,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Worst experience ever!,2,1,negative,bad experience ever,3,19,1,0,0,negative,2
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Terrible quality. Broke in days.,1,1,negative,terrible quality break day,4,26,2,0,0,negative,1
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"Poor performance, not recommended.",1,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+It works as expected.,3,1,neutral,work expect,2,11,1,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Excellent product! Highly recommended.,5,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Very disappointed. Wouldn’t buy again.,2,1,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Totally worth the money 👌,5,1,positive,totally worth money,3,19,0,0,1,n/a,3
+Excellent product! Highly recommended.,5,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"It’s okay, not great not terrible.",3,1,neutral,okay great terrible,3,19,2,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,1,positive,love five star,3,14,1,0,0,positive,4
+Perfect fit and great quality!,4,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,4,1,positive,totally worth money,3,19,0,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,5,1,positive,totally worth money,3,19,0,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Neither good nor bad.,3,1,neutral,neither good bad,3,16,1,0,0,neutral,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Perfect fit and great quality!,5,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+"Poor performance, not recommended.",2,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Decent for the price.,3,1,neutral,decent price,2,12,1,0,0,neutral,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Amazing. I’ll buy it again.,5,1,positive,amazing ill buy,3,15,2,0,0,positive,5
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Waste of money!,2,1,negative,waste money,2,11,1,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,1,positive,love five star,3,14,1,0,0,positive,4
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Totally worth the money 👌,5,1,positive,totally worth money,3,19,0,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,1,positive,love five star,3,14,1,0,0,positive,5
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Neither good nor bad.,3,1,neutral,neither good bad,3,16,1,0,0,neutral,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Excellent product! Highly recommended.,5,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Totally worth the money 👌,5,1,positive,totally worth money,3,19,0,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,1,positive,love five star,3,14,1,0,0,positive,4
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Perfect fit and great quality!,4,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,5,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+"Poor performance, not recommended.",2,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Amazing. I’ll buy it again.,4,1,positive,amazing ill buy,3,15,2,0,0,positive,4
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Perfect fit and great quality!,4,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Waste of money!,2,1,negative,waste money,2,11,1,0,0,negative,2
+Worst experience ever!,1,1,negative,bad experience ever,3,19,1,0,0,negative,1
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+It works as expected.,3,1,neutral,work expect,2,11,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+"Poor performance, not recommended.",1,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Totally worth the money 👌,4,1,positive,totally worth money,3,19,0,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,1,positive,love five star,3,14,1,0,0,positive,5
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+It works as expected.,3,1,neutral,work expect,2,11,1,0,1,n/a,3
+Excellent product! Highly recommended.,4,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Worst experience ever!,2,1,negative,bad experience ever,3,19,1,0,0,negative,2
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+"Poor performance, not recommended.",2,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Worst experience ever!,1,1,negative,bad experience ever,3,19,1,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Decent for the price.,3,1,neutral,decent price,2,12,1,0,0,neutral,3
+Terrible quality. Broke in days.,1,1,negative,terrible quality break day,4,26,2,0,0,negative,1
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Worst experience ever!,1,1,negative,bad experience ever,3,19,1,0,0,negative,1
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Worst experience ever!,2,1,negative,bad experience ever,3,19,1,0,0,negative,2
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Terrible quality. Broke in days.,1,1,negative,terrible quality break day,4,26,2,0,0,negative,1
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Perfect fit and great quality!,5,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Amazing. I’ll buy it again.,5,1,positive,amazing ill buy,3,15,2,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Perfect fit and great quality!,4,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Perfect fit and great quality!,4,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,1,positive,love five star,3,14,1,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Waste of money!,1,1,negative,waste money,2,11,1,0,0,negative,1
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Excellent product! Highly recommended.,4,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Amazing. I’ll buy it again.,5,1,positive,amazing ill buy,3,15,2,0,0,positive,5
+"Poor performance, not recommended.",2,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+"Poor performance, not recommended.",2,1,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Excellent product! Highly recommended.,4,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Perfect fit and great quality!,4,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Terrible quality. Broke in days.,2,1,negative,terrible quality break day,4,26,2,0,0,negative,2
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Perfect fit and great quality!,5,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Waste of money!,2,1,negative,waste money,2,11,1,0,0,negative,2
+Decent for the price.,3,1,neutral,decent price,2,12,1,0,0,neutral,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Perfect fit and great quality!,5,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Excellent product! Highly recommended.,5,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"It’s okay, not great not terrible.",3,1,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Waste of money!,1,1,negative,waste money,2,11,1,0,0,negative,1
+Neither good nor bad.,3,1,neutral,neither good bad,3,16,1,0,0,neutral,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,1,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Amazing. I’ll buy it again.,4,1,positive,amazing ill buy,3,15,2,0,0,positive,4
+Worst experience ever!,2,0,negative,bad experience ever,3,19,1,0,0,negative,2
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Amazing. I’ll buy it again.,5,1,positive,amazing ill buy,3,15,2,0,0,positive,5
+Perfect fit and great quality!,5,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Waste of money!,2,1,negative,waste money,2,11,1,0,0,negative,2
+Amazing. I’ll buy it again.,4,1,positive,amazing ill buy,3,15,2,0,0,positive,4
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,4,1,positive,totally worth money,3,19,0,0,1,n/a,3
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Totally worth the money 👌,5,1,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,2,0,negative,terrible quality break day,4,26,2,0,0,negative,2
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Perfect fit and great quality!,4,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Waste of money!,2,1,negative,waste money,2,11,1,0,0,negative,2
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Perfect fit and great quality!,4,1,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Waste of money!,1,1,negative,waste money,2,11,1,0,0,negative,1
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+It works as expected.,3,1,neutral,work expect,2,11,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Neither good nor bad.,3,0,neutral,neither good bad,3,16,1,0,0,neutral,3
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Waste of money!,2,1,negative,waste money,2,11,1,0,0,negative,2
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,4,1,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Amazing. I’ll buy it again.,4,0,positive,amazing ill buy,3,15,2,0,0,positive,4
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+It works as expected.,3,0,neutral,work expect,2,11,1,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Worst experience ever!,1,0,negative,bad experience ever,3,19,1,0,0,negative,1
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+Amazing. I’ll buy it again.,5,0,positive,amazing ill buy,3,15,2,0,0,positive,5
+Waste of money!,1,0,negative,waste money,2,11,1,0,0,negative,1
+"It’s okay, not great not terrible.",3,0,neutral,okay great terrible,3,19,2,0,1,n/a,3
+"Average quality, meets expectations.",3,1,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Decent for the price.,3,0,neutral,decent price,2,12,1,0,0,neutral,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Totally worth the money 👌,4,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Very disappointed. Wouldn’t buy again.,1,0,negative,disappoint would not buy,4,24,2,0,0,negative,1
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,4,0,positive,love five star,3,14,1,0,0,positive,4
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Totally worth the money 👌,5,0,positive,totally worth money,3,19,0,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+Perfect fit and great quality!,5,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Decent for the price.,3,1,neutral,decent price,2,12,1,0,0,neutral,3
+Excellent product! Highly recommended.,5,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Terrible quality. Broke in days.,1,0,negative,terrible quality break day,4,26,2,0,0,negative,1
+"Poor performance, not recommended.",2,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+Excellent product! Highly recommended.,4,0,positive,excellent product highly recommend,4,34,2,0,1,n/a,3
+"Poor performance, not recommended.",1,0,negative,poor performance recommend,3,26,2,0,1,n/a,3
+"Average quality, meets expectations.",3,0,neutral,average quality meet expectation,4,32,2,0,1,n/a,3
+Waste of money!,2,0,negative,waste money,2,11,1,0,0,negative,2
+Very disappointed. Wouldn’t buy again.,2,0,negative,disappoint would not buy,4,24,2,0,0,negative,2
+Loved it! Five stars from me ⭐⭐⭐⭐⭐,5,0,positive,love five star,3,14,1,0,0,positive,5
+Perfect fit and great quality!,4,0,positive,perfect fit great quality,4,25,1,0,1,n/a,3

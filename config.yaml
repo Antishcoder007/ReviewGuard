@@ -1,0 +1,20 @@
+# config.yaml
+
+paths:
+  raw_data: "data/raw/"
+  processed_data: "data/processed/"
+  models_dir: "models/"
+  output_dir: "outputs/predictions/"
+
+models:
+  fake_classifier: "models/fake_review_model.pkl"
+  sentiment_classifier: "models/sentiment_model.pkl"
+  vectorizer: "models/vectorizer.pkl"
+  scaler: "models/scaler.pkl"
+  label_encoder: "models/sentiment_label_encoder.pkl"
+
+thresholds:
+  fake_threshold: 0.5
+
+web:
+  allowed_extensions: [".csv", ".xlsx"]

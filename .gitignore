@@ -1,0 +1,13 @@
+# Ignore virtual environments
+env/
+.env/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# MacOS
+.DS_Store
+
+# Test files, if not needed
+test*
