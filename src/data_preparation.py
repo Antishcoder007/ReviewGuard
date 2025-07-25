@@ -5,6 +5,8 @@ import re
 import nltk
 import emoji
 import spacy
+import subprocess
+import importlib.util
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import os
