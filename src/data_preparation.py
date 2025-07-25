@@ -22,7 +22,7 @@ def clean_text(text):
     text = re.sub(r"http\S+", "", text)
     text = re.sub(r"[^A-Za-z0-9\s]", "", text)
     text = text.lower().strip()
-    return re.sub("\s+", " ", text)
+    return re.sub(r"\s+", " ", text)
 
 def tokenize(text):
     tokens = word_tokenize(text)
