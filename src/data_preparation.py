@@ -5,8 +5,7 @@ import re
 import nltk
 import emoji
 import spacy
-import subprocess
-import importlib.util
+
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import os
@@ -14,7 +13,15 @@ import os
 nltk.download('punkt')
 nltk.download('stopwords')
 STOPWORDS = set(stopwords.words('english'))
-nlp = spacy.load("en_core_web_sm")
+
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    import subprocess
+    import sys
+    print("Downloading spaCy model...")
+    subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
+    nlp = spacy.load("en_core_web_sm")
 
 def clean_text(text):
     if pd.isna(text): return ""
