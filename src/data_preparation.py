@@ -15,13 +15,13 @@ nltk.download('stopwords')
 STOPWORDS = set(stopwords.words('english'))
 
 try:
-    nlp = spacy.load("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm", disable=["parser", "ner"])
 except OSError:
     import subprocess
     import sys
     print("Downloading spaCy model...")
     subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
-    nlp = spacy.load("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm", disable=["parser", "ner"])
 
 def clean_text(text):
     if pd.isna(text): return ""
