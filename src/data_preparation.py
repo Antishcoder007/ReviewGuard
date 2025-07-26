@@ -10,9 +10,18 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import os
 
-nltk.download('punkt')
+# nltk.download('punkt')
+# nltk.download('stopwords')
+# STOPWORDS = set(stopwords.words('english'))
+try:
+    nltk.data.find('tokenizers/punkt')
+    nltk.data.find('tokenizers/punkt_tab')
+except LookupError:
+    nltk.download('punkt')
+    nltk.download('punkt_tab')
 nltk.download('stopwords')
 STOPWORDS = set(stopwords.words('english'))
+
 
 try:
     nlp = spacy.load("en_core_web_sm", disable=["parser", "ner"])
