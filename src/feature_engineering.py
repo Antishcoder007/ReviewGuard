@@ -1,39 +1,3 @@
-# # src/feature_engineering.py
-
-# import pandas as pd
-# import joblib
-# from sklearn.feature_extraction.text import TfidfVectorizer
-# from sklearn.preprocessing import StandardScaler
-# import os
-# import string
-
-# def extract_behavioral_features(df):
-#     df['review_length'] = df['clean_text'].apply(lambda x: len(str(x).split()))
-#     df['char_length'] = df['clean_text'].apply(len)
-#     df['punctuation_count'] = df['review_text'].apply(lambda x: sum([1 for c in str(x) if c in string.punctuation]))
-#     df['rating_mismatch'] = 0   # Will be updated later if needed
-#     return df
-
-# def generate_tfidf_features(texts, output_path='../models/vectorizer.pkl', fit=True):
-#     if fit:
-#         vectorizer = TfidfVectorizer(max_features=5000)
-#         tfidf = vectorizer.fit_transform(texts)
-#         joblib.dump(vectorizer, output_path)
-#     else:
-#         vectorizer = joblib.load(output_path)
-#         tfidf = vectorizer.transform(texts)
-#     return tfidf, vectorizer
-
-# def combine_features(tfidf, df):
-#     features = df[['review_length', 'char_length', 'punctuation_count', 'rating_mismatch']]
-#     scaler = StandardScaler()
-#     scaled = scaler.fit_transform(features)
-#     joblib.dump(scaler, '../models/scaler.pkl')
-
-#     from scipy.sparse import hstack
-#     return hstack([tfidf, scaled])
-
-
 # src/feature_engineering.py
 
 import pandas as pd
